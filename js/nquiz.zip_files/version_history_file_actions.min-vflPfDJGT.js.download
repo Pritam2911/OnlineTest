@@ -1,0 +1,2 @@
+define(["require","exports","tslib","react","modules/clean/react/title_bar/controls_container","modules/clean/react/file_viewer_sidebar/render_utils/call_to_action"],function(e,t,r,i,n,o){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),i=r.__importDefault(i),t.VersionHistoryFileActions=function(e){return i.default.createElement(n.TitleBarControlsContainer,null,o.renderVersionHistoryActions(e.file,e.user,e.shouldDisplayActionButtons,e.canRestoreRevision,e.onRestoreRevision))}});
+//# sourceMappingURL=version_history_file_actions.min.js-vflc6GWSB.map
